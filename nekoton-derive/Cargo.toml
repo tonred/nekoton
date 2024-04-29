@@ -22,8 +22,8 @@ num-bigint = "0.4"
 num-traits = "0.2"
 trybuild = "1.0"
 
-ton_abi = { git = "https://github.com/broxus/ton-labs-abi" }
-ton_block = { git = "https://github.com/broxus/ton-labs-block.git" }
+ton_abi = { git = "https://github.com/tonred/ton-labs-abi" }
+ton_block = { git = "https://github.com/tonred/ton-labs-block.git" }
 ton_types = { git = "https://github.com/broxus/ton-labs-types.git" }
 
 nekoton-abi = { path = "../nekoton-abi", features = ["derive"] }
